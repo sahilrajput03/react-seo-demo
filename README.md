@@ -4,6 +4,9 @@
 - Article - NextJs SEO Playbook: [Click here](https://vercel.com/blog/nextjs-seo-playbook)
 - StackOverflow - What is the purpose of react-helmet?: [Click here](https://stackoverflow.com/questions/52690820/what-is-the-purpose-of-react-helmet)
 - Reddit - How I Use Wikipedia and Semrush to Find Keywords and Generate Winning Topic Ideas: [Click here](https://www.reddit.com/r/SEMrush/comments/1g9ie2n/how_i_use_wikipedia_and_semrush_to_find_keywords/)
+- Semrush: https://www.semrush.com/
+  - [wikipedia](https://en.wikipedia.org/wiki/Semrush)
+    - Search Engine Marketing: [Click here](https://en.wikipedia.org/wiki/Search_engine_marketing)
 
 ## SEO in React
 
