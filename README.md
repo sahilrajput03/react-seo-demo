@@ -1,9 +1,16 @@
-# SEO in React
+# Learn SEO
+
+**Quick Links:**
+- Article - NextJs SEO Playbook: [Click here](https://vercel.com/blog/nextjs-seo-playbook)
+- StackOverflow - What is the purpose of react-helmet?: [Click here](https://stackoverflow.com/questions/52690820/what-is-the-purpose-of-react-helmet)
+
+## SEO in React
 
 This is a simple implemention of SEO in react bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using:
-+ [React-Helmet](https://github.com/nfl/react-helmet#readme):  manage changes to the react SPA.
-+ [React-Snap](https://github.com/stereobooster/react-snap#readme): pre-renders web app into static html and enabling SEO
----
+- [React-Helmet](https://github.com/nfl/react-helmet#readme):  manage changes to the react SPA.
+- [React-Snap](https://github.com/stereobooster/react-snap#readme): pre-renders web app into static html and enabling SEO
+
+
 ### `React-Helmet`
 
 This package helps to modify the various page headers of our SPA by injecting head tags specified in those pages within the Helmet tags. 
